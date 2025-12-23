@@ -1,2 +1,1 @@
-# Birthday-game
-Birthday game for my friend 🎂
+# her-birthday
